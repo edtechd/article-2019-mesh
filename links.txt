@@ -1,0 +1,6 @@
+https://www.researchgate.net/publication/13454800_Comparison_of_geometry-based_and_CT_voxel-based_finite_element_modelling_and_experimental_validation
+Comparison of geometry-based and CT voxel-based finite element modelling and experimental validation
+
+
+https://arxiv.org/ftp/arxiv/papers/0911/0911.3884.pdf
+Techniques for the generation of 3D Finite Element Meshes of human organs 
